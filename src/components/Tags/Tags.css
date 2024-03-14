@@ -1,0 +1,18 @@
+.tags {
+  padding: 0;
+
+  display: flex;
+  gap: 8px;
+
+  list-style-type: none;
+}
+
+.tag {
+  padding: 4px 10px;
+  border-radius: 4px;
+
+  background-color: hsl(47, 88%, 63%);
+
+  font-weight: 800;
+  font-size: 14px;
+}

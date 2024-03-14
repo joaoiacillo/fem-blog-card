@@ -1,0 +1,14 @@
+.author {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.author .user-icon {
+  max-width: 24px;
+}
+
+.author-name {
+  font-weight: bold;
+  font-size: 14px;
+}
